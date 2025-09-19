@@ -5,7 +5,7 @@
 🌱 Atualizando conhecimentos em programção.  
 
 ## 📈 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ryan-pabloshow_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ryan-Pabloestec&show_icons=true&theme=radical)
 
 ## 📫 Entre em contato comigo!
 - ryanprogramacaoedev@gmail.com
