@@ -5,7 +5,7 @@
 🌱 Atualizando conhecimentos em programção.  
 
 ## 📈 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Davi-Ryan-pablo_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ryan-Ryan-pablo_icons=true&theme=radical)
 
 ## 📫 Entre em contato comigo!
 - ryanprogramacaoedev@gmail.com
