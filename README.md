@@ -1,66 +1,44 @@
-# Ryan Programação Dev <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
-
-<!-- 
-    &nbsp; [![HitCount](http://hits.dwyl.com/TheDudeThatCode/TheDudeThatCode.svg)](http://hits.dwyl.com/TheDudeThatCode/TheDudeThatCode) 
--->
-
-<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
-
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Olá, mundo!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-
-<p>
-  <em>
-    Sou um aprendiz apaixonado e desenvolvedor, focado em <b>Desenvolvimento de Software</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">. Estou sempre explorando novas tecnologias, frameworks e ferramentas para <b>melhorar</b> minhas habilidades e <b>crescer</b> como desenvolvedor. 🚀
-  </em>  
+<h1 align="center">👨‍💻 Ryan Programação Dev 🚀</h1>
+<p align="center">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="40px">
 </p>
 
-<br>
+<p align="center">
+  🌎 Apaixonado por <b>Desenvolvimento de Software</b> e sempre explorando novas tecnologias.  
+  🎯 Foco em crescer como desenvolvedor e colaborar em projetos open-source.
+</p>
 
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20px" /> Eu *atualmente* estou **trabalhando na construção do meu perfil** 💻
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20px" /> Eu *estou aprendendo* **novas linguagens de programação e frameworks** 🔥.
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="20px" /> Eu *estou buscando colaborar* em **projetos de desenvolvimento web** 🌐.
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20px" /> Eu *estou procurando* *ajuda* com **fluxos de trabalho avançados no Git** 🔄.
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="20px" /> *Pergunte-me* sobre **como estou automatizando meu fluxo de trabalho** 🛠️.
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20px" /> **Pronomes:** [*Ele/Dele*](https://pronoun.is/he) 🧔
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20px" /> **Fato curioso:** Eu adoro aprender novos truques de programação à noite 🌙.
+---
 
-<br>
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+</p>
 
-<a href="https://github.com/ryanprogramacaoedev-commits">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanprogramacaoedev-commits&theme=dark&hide_langs_below=1" />
-</a>
+---
 
-<a href="https://github.com/ryanprogramacaoedev-commits">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ryanprogramacaoedev-commits&show_icons=true&theme=dark&line_height=27" alt="Estatísticas do github de Ryan"/>
-</a>
+### 📊 Estatísticas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ryanprogramacaoedev-commits&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanprogramacaoedev-commits&layout=compact&theme=tokyonight" height="150"/>
+</p>
 
-<a href="https://github.com/ryanprogramacaoedev-commits">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ryanprogramacaoedev-commits&repo=ryanprogramacaoedev-commits&theme=dark" />
-</a>
+---
 
-<a href="https://github.com/ryanprogramacaoedev-commits">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ryanprogramacaoedev-commits&repo=Fun-with-DS-and-Algo&theme=dark" />
-</a>
+### 🚀 Projetos em Destaque
+- 🔗 [Fun with DS and Algo](https://github.com/ryanprogramacaoedev-commits/Fun-with-DS-and-Algo) — Estruturas de Dados e Algoritmos.  
+- 🔗 [Meu Perfil Dev](https://github.com/ryanprogramacaoedev-commits/ryanprogramacaoedev-commits) — Repositório do meu portfólio no GitHub.
 
-<br>
+---
 
-
-
-
-
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Jogo Mario" width="980">
-
-<br>
-
-# Conecte-se comigo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
-
-| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Logo do Linkedin" width="32">](https://www.linkedin.com/in/ryanprogramacaoedev/) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Logo do Twitter" width="32">](https://twitter.com/ryan_programdev) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="Logo do Instagram" width="32">](https://www.instagram.com/ryan_programacao/) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Logo do Github" width="34">](https://github.com/ryanprogramacaoedev-commits) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" alt="Logo do HackerRank" width="30">](https://www.hackerrank.com/ryan_programacao) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Logo do Stackoverflow" width="28">](https://stackoverflow.com/users/ryan-programacao) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Logo do Medium" width="30">](https://medium.com/@ryanprogramacao) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Logo do Gmail" height="32">](mailto:ryanprogramacao@gmail.com)
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-
-
-
-<br>
-<br>
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ryanprogramacaoedev-commits)
-
+### 🤝 Conecte-se comigo
+<p align="center">
+  <a href="https://www.linkedin.com/in/ryanprogramacaoedev/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+  <a href="https://twitter.com/ryan_programdev"><img src="https://skillicons.dev/icons?i=twitter" width="40"/></a>
+  <a href="https://www.instagram.com/ryan_programacao/"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
+  <a href="https://github.com/ryanprogramacaoedev-commits"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
+</p>
