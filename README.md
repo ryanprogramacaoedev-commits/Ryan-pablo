@@ -54,7 +54,7 @@
 
 # Conecte-se comigo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
-| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Logo do Linkedin" width="32">](https://www.linkedin.com/in/ryanprogramacaoedev/) |  [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="Logo do Instagram" width="32">](https://www.instagram.com/fnsubzero/) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Logo do Github" width="34">](https://github.com/ryanprogramacaoedev-commits) | [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:ryanprogramacaoedev@gmail.com)
+| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Logo do Linkedin" width="32">](https://www.linkedin.com/in/ryanprogramacaoedev/) |  [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="Logo do Instagram" width="32">](https://www.instagram.com/fnsubzero/) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Logo do Github" width="34">](https://github.com/ryanprogramacaoedev-commits) | [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:ryanprogramacaoedev@gmail.com) | [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-brightgreen?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5513981636199)
 
 
 
