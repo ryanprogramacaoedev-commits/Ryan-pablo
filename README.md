@@ -3,8 +3,7 @@
 🚀 Aprendendo a desenvolver e apaixonado por programar.  
 🎯 Focado em evoluir.  
 🌱 Atualizando conhecimentos em programção.  
-
+![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryan&hide=contribs,prs)
 ## 📈 Estatísticas do GitHub
-<code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
 ## 📫 Entre em contato comigo!
 - ryanprogramacaoedev@gmail.com
