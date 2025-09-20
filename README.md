@@ -4,6 +4,6 @@
 🎯 Focado em evoluir.  
 🌱 Atualizando conhecimentos em programção.  
 ## 📈 Estatísticas do GitHub
-![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryan&hide=contribs,prs)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryan&hide=contribs,prs)
 ## 📫 Entre em contato comigo!
 - ryanprogramacaoedev@gmail.com
