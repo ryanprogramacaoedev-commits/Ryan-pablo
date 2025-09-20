@@ -44,6 +44,10 @@
 
 <br>
 
+
+
+
+
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Jogo Mario" width="980">
 
 <br>
